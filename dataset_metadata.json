@@ -1,7 +1,7 @@
 {
   "datasets": [
     {
-      "name": "dataset1.csv",
+      "name": "Original_Features.csv",
       "size_gb": 2.1,
       "description": "First dataset - is the original dataset without ACK filtering",
       "shape": null,
@@ -92,7 +92,7 @@
       "file_id": "1AyQqt8Rnm86Fctrgh0OJ54DhyZ2607Fz"
     },
     {
-      "name": "dataset2.csv",
+      "name": "Filtered_Features.csv",
       "size_gb": 1.47,
       "description": "Second dataset - the filtered dataset after removing ACK packets",
       "shape": null,
