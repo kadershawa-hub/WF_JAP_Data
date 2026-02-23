@@ -8,12 +8,12 @@ This repository contains the structured datasets generated for the Website Finge
 
 1. **Original_Features.csv** (2.1 GB)
    - **Description**: This dataset contains features derived from **raw, unfiltered** network traffic captures. It includes all packets from each browsing session.
-   - **Columns**: 80 columns
+   - **Columns**: 79 columns
    - **Download**: [Google Drive Link](https://drive.google.com/file/d/1AyQqt8Rnm86Fctrgh0OJ54DhyZ2607Fz/view?usp=sharing)
 
 2. **Filtered_Features.csv** (1.47 GB)
    - **Description**: This dataset contains features derived from traffic traces after **filtering out pure TCP ACK packets**. As demonstrated in our paper, removing this "OS chatter" reveals more stable and repeatable website fingerprints, leading to higher classification accuracy.
-   - **Columns**: 80 columns
+   - **Columns**: 79 columns
    - **Download**: [Google Drive Link](https://drive.google.com/file/d/14WrI5_RcbzCJ8terqemjoLs8Wnsjhf43/view?usp=sharing)
 
 ### 📄 Data Format & Column Description
